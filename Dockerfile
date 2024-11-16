@@ -1,13 +1,13 @@
 #checkov:skip=CKV_DOCKER_2
 #checkov:skip=CKV_DOCKER_3
-FROM python:3.13-alpine AS builder
+FROM python:3.13-alpine@sha256:fcbcbbecdeae71d3b77445d9144d1914df55110f825ab62b04a66c7c33c09373 AS builder
 
 WORKDIR /
 
 COPY pyproject.toml poetry.lock ./
 RUN pip install --no-cache-dir poetry==1.8.4 && poetry export --output=requirements.txt
 
-FROM python:3.13-alpine AS analyser
+FROM python:3.13-alpine@sha256:fcbcbbecdeae71d3b77445d9144d1914df55110f825ab62b04a66c7c33c09373 AS analyser
 
 WORKDIR /
 
