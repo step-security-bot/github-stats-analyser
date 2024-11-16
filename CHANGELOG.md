@@ -1,5 +1,30 @@
 # Changelog
 
+## [1.2.1](https://github.com/JackPlowman/github-stats-analyser/compare/v1.2.0...v1.2.1) (2024-11-16)
+
+
+### ⬆️ Dependency updates
+
+* **github-actions:** bump the github-actions group across 1 directory with 3 updates ([#188](https://github.com/JackPlowman/github-stats-analyser/issues/188)) ([2c713ed](https://github.com/JackPlowman/github-stats-analyser/commit/2c713ed5cfa8c3bfe08778a25d8fe93ba5fa0e1f))
+
+
+### 🧰 Maintenance
+
+* Add British English preference to PR template ([#185](https://github.com/JackPlowman/github-stats-analyser/issues/185)) ([2d52af3](https://github.com/JackPlowman/github-stats-analyser/commit/2d52af39e421a3836efe547ce74404b6eb806ca3)), closes [#184](https://github.com/JackPlowman/github-stats-analyser/issues/184)
+* Add Security Policy ([#209](https://github.com/JackPlowman/github-stats-analyser/issues/209)) ([5020782](https://github.com/JackPlowman/github-stats-analyser/commit/502078248e438b19ca17986c67b0b4cef99ce0da)), closes [#208](https://github.com/JackPlowman/github-stats-analyser/issues/208)
+* Add size labels to GitHub configuration ([#182](https://github.com/JackPlowman/github-stats-analyser/issues/182)) ([32b8739](https://github.com/JackPlowman/github-stats-analyser/commit/32b873900b00567268a28f6ae9276b5aa55ee198)), closes [#180](https://github.com/JackPlowman/github-stats-analyser/issues/180)
+* Add size labels to pull requests ([#183](https://github.com/JackPlowman/github-stats-analyser/issues/183)) ([9f1cd9e](https://github.com/JackPlowman/github-stats-analyser/commit/9f1cd9e6395c05fe38158cf845a2df0793e207b2)), closes [#181](https://github.com/JackPlowman/github-stats-analyser/issues/181)
+* Adjust PR size label thresholds ([#187](https://github.com/JackPlowman/github-stats-analyser/issues/187)) ([ca918f5](https://github.com/JackPlowman/github-stats-analyser/commit/ca918f53a0b7a3523cc878ac167706936e492f48)), closes [#186](https://github.com/JackPlowman/github-stats-analyser/issues/186)
+* Bump Poetry version  ([#175](https://github.com/JackPlowman/github-stats-analyser/issues/175)) ([92f71c6](https://github.com/JackPlowman/github-stats-analyser/commit/92f71c6d55eda0cae9e90d3e5b0de6d749d057d5)), closes [#176](https://github.com/JackPlowman/github-stats-analyser/issues/176)
+* Bump Ruff to 0.7.1 and reorder fix commands ([#190](https://github.com/JackPlowman/github-stats-analyser/issues/190)) ([36f3e2f](https://github.com/JackPlowman/github-stats-analyser/commit/36f3e2f036ea223090828e8d9b4cde5043025587)), closes [#189](https://github.com/JackPlowman/github-stats-analyser/issues/189)
+* Refactor GitHub Workflows ([#198](https://github.com/JackPlowman/github-stats-analyser/issues/198)) ([f3e650f](https://github.com/JackPlowman/github-stats-analyser/commit/f3e650f5505ab3fb30888e08b528f23eb9f0d71e)), closes [#196](https://github.com/JackPlowman/github-stats-analyser/issues/196)
+* Refactor Workflow Triggers ([#203](https://github.com/JackPlowman/github-stats-analyser/issues/203)) ([a30513e](https://github.com/JackPlowman/github-stats-analyser/commit/a30513e1d99a6c8b62bad6b06aceab4e5f5ca6d9)), closes [#202](https://github.com/JackPlowman/github-stats-analyser/issues/202)
+* Remove version check workflow ([#172](https://github.com/JackPlowman/github-stats-analyser/issues/172)) ([e041d95](https://github.com/JackPlowman/github-stats-analyser/commit/e041d95769247a5d32ec5323793abbfb10a71a5a)), closes [#171](https://github.com/JackPlowman/github-stats-analyser/issues/171)
+* Run CodeLimit ([#211](https://github.com/JackPlowman/github-stats-analyser/issues/211)) ([7fb0804](https://github.com/JackPlowman/github-stats-analyser/commit/7fb0804802eb2430c39ea8b4fdc2618c701347bc)), closes [#210](https://github.com/JackPlowman/github-stats-analyser/issues/210)
+* Update GitHub Actions dependencies ([#177](https://github.com/JackPlowman/github-stats-analyser/issues/177)) ([102cf66](https://github.com/JackPlowman/github-stats-analyser/commit/102cf66abf7d5322a19f83789106959cf52a1642)), closes [#178](https://github.com/JackPlowman/github-stats-analyser/issues/178)
+* Update Pull Request Template ([#197](https://github.com/JackPlowman/github-stats-analyser/issues/197)) ([f481858](https://github.com/JackPlowman/github-stats-analyser/commit/f481858ad3eea1bc5f3c7cf6439f25fb54a949a6)), closes [#195](https://github.com/JackPlowman/github-stats-analyser/issues/195)
+* Update Ruff Output ([#192](https://github.com/JackPlowman/github-stats-analyser/issues/192)) ([e2655a2](https://github.com/JackPlowman/github-stats-analyser/commit/e2655a272c20b229bda17e42defef855ecb1c727)), closes [#191](https://github.com/JackPlowman/github-stats-analyser/issues/191)
+
 ## [1.2.0](https://github.com/JackPlowman/github-stats-analyser/compare/v1.1.0...v1.2.0) (2024-10-20)
 
 
